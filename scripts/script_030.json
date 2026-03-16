@@ -6,8 +6,8 @@
     "data_size": 186,
     "nom_orig": "Meteor[SP]Masa",
     "texte_orig": "...And[SP]that's[SP]that![SP]We're[SP]waiting[SP]for[SP]more\nletters[SP]from[SP]YOU,[SP]the[SP]listeners!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Meteor Masa",
+    "texte_fr": "...Et voilà! On attend vos prochaines\nlettres, à VOUS, les auditeurs!"
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 270,
     "nom_orig": "Meteor[SP]Masa",
     "texte_orig": "By[SP]the[SP]way,[SP]Ginji-san,[SP]you[SP]said[SP]you[SP]had[SP]an\nimportant[SP]announcement[SP]to[SP]make[SP]during[SP]our\nshow[SP]today.[SP]You[SP]don't[SP]mean...?[1205][001E]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Meteor Masa",
+    "texte_fr": "Bref, Ginji-san, tu avais une annonce\nimportante a nous faire durant l'émission d'aujourd'hui. Ce ne serait pas...?[1205][001E]"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 234,
     "nom_orig": "???",
     "texte_orig": "Ahahah...[1205][001E][SP]You've[SP]got[SP]me[SP]there.[SP]Yeah,[SP]I'd[SP]say\nit's[SP]about[SP]time.[SP]Looks[SP]like[SP]our[SP]last[SP]guest\nhas[SP]just[SP]arrived.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "???",
+    "texte_fr": "Ahahah...[1205][001E] Tu m'as eu. Oui, il était\ntemps. On dirait que notre dernier invité\nest arrivé"
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 256,
     "nom_orig": "Ginji",
     "texte_orig": "It's[SP]time[SP]I[SP]gave[SP]the[SP]people[SP]what[SP]they[SP]want\nand[SP]announced[SP]the[SP]third[SP]member[SP]of[SP]Muses![1205][001E]\nLisa[SP]Silverman![SP]There[SP]you[SP]are!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginji",
+    "texte_fr": "Il est temps de donner ce que les gens veulent\net annoncer la troisième membre de Muses![1205][001E]\nLisa Silverman te voilà!"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 122,
     "nom_orig": "Ginko",
     "texte_orig": "Oh,[SP]geez![SP]What[SP]should[SP]I[SP]do,[SP][U+1113]!?\nKaumena![SP]Help[SP]me!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Oh, merde! Je fait quoi, [U+1113]!?\n Aide moi Kaumena!"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 262,
     "nom_orig": "Maya",
     "texte_orig": "I[SP]don't[SP]think[SP]you[SP]have[SP]a[SP]choice![SP]Time[SP]to\nbite[SP]the[SP]bullet[SP]and[SP]go[SP]do[SP]this![SP]Try[SP]and\npry[SP]out[SP]as[SP]much[SP]information[SP]as[SP]you[SP]can!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Je pense pas que tu ai le choix! prend le\ntaureau par les corne et vas-y!\nRecupère un max d'information!"
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 142,
     "nom_orig": "Mami[SP]&[SP]Miho",
     "texte_orig": "For[SP]everyone[SP]tuning[SP]in[SP]now,[SP]Muses[SP]is[SP]now\na[SP]full[SP]trio!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mami, Miho",
+    "texte_fr": "Wow! Ça c'est de l'annonce!\nBien joué, Ginji, espèce de bâtard stylé!"
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 196,
     "nom_orig": "Meteor[SP]Masa",
     "texte_orig": "Woah![SP]Now[SP]that's[SP]what[SP]I[SP]call[SP]shock[SP]radio!\nWay[SP]to[SP]go,[SP]Ginji,[SP]you[SP]stylish[SP]bastard!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Meteor Masa",
+    "texte_fr": "Wow! Ça c'est de l'annonce!\nBien joué, Ginji, espèce de bâtard stylé!"
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 168,
     "nom_orig": "Maya",
     "texte_orig": "Hey,[SP][U+1113]-kun.[1205][001E][SP]Do[SP]you[SP]detect[SP]a[SP]faint\nPersona[SP]resonance[SP]in[SP]that[SP]Sasaki[SP]guy?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Hé, [U+1113]-kun.[1205][001E] Tu détectes une\ntrace de resonance aux Personae chez Sasaki?"
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
     "data_size": 168,
     "nom_orig": "Maya",
     "texte_orig": "I[SP]wonder[SP]if[SP]he's[SP]one[SP]of[SP]the[SP]Masked[SP]Circle...\nIf[SP]he[SP]is,[SP]Lisa's[SP]in[SP]trouble.",
-    "nom_fr": "",
+    "nom_fr": "Maya",
     "texte_fr": ""
   },
   {
